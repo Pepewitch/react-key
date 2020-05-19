@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "build:tailwind": "tailwind build tailwind.css  -o tailwind.generated.css"
+    "build:tailwind": "tailwind build tailwind.css -o tailwind.generated.css"
   },
   "dependencies": {
     "next": "9.4.1",
